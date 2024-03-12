@@ -2,7 +2,6 @@
   "name": "registrationform",
   "version": "1.0.0",
   "description": "Creating a Registration Form using React",
-  "main": "index.html",
   "scripts": {
     "test": "jest",
     "start":"parcel index.html",
