@@ -7,7 +7,9 @@ const DisplayMessage = ({ message }) => {
         <div className="registration_complete">
           <div className="registration_complete_message">
             <span className="material-symbols-outlined">check_circle</span>
-            <p className="success_message">User account successfully created</p>
+            <p className="success_message">
+              User account successfully created.
+            </p>
           </div>
         </div>
       ) : null}
